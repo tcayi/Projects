@@ -1,2 +1,2 @@
 # Projects
-A set of projects used
+A series of projects to help with ML experiences
