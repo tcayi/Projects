@@ -1,2 +1,2 @@
 # Projects
-A series of projects to help with ML experiences
+A series of personal projects for me to familiarize myself with ML experience
